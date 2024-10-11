@@ -1,4 +1,6 @@
 public class localvariable234 {
+//int instance variable=10;//instance variable
+//int static_variable=20;//static variable
     public static void main(String[]args)
     {
         int b=20;//local varaible
