@@ -1,0 +1,17 @@
+public class localvariable234 {
+    public static void main(String[]args)
+    {
+        int b=20;//local varaible
+    }
+    int sachin=10;
+    {
+        System.out.println(sachin);//yes avaiable here
+    }
+    //System.out.println(sachin);//not
+}
+//local variable is not access within the curly bases not aviable.
+//so inside the method of inside not outside
+
+We can see an interview questioned most of asked 
+
+within the outside of the method we cannot access the lets took an example like sachin.
