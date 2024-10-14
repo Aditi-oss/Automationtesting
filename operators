@@ -1,1 +1,48 @@
+Opeartors in java 
+public class operat123 {
+    public static void main(String[]args)
+    {
+        System.out.println('5'+'6');
+        String first_name="aditi";
+        String last_name="gawade";
+int a=10;
+int b=20;
+        System.out.println(first_name+last_name+a+b);
+        //concatination operqtors
+        System.out.println(first_name+last_name+(a+b));
+        //bodmos rule
+        //logical operators
+        // || ,!,&&
+        boolean x=true;
+        boolean y=true;
+        boolean z=true || false;
+        System.out.println(z);
+        System.out.println(!x);
+        System.out.println(!y);
+
+        // comparison operatos
+        System.out.println(10==10);
+        System.out.println(10==20);
+        System.out.println(10<10);
+        System.out.println(10<=10);
+        //Arithemetic operators
+        //+-/*%
+        //compound operators assignment operators
+        //+= ,_= ,/=,*=
+        int p=10;
+        // new operators
+        String name=new String();
+        //new -new memory and object heap area
+        //
+
+        //instance of opeartors
+        System.out.println(name  instanceof String);
+
+
+
+
+
+
+    }
+}
 
