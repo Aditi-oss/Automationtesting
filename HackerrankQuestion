@@ -1,0 +1,29 @@
+//
+
+import java.util.Scanner;
+
+public class lab0027HaclkerrankQues {
+    public static void main(String[]args)
+    {
+        Scanner sc =new Scanner(System.in);
+        System.out.println("enter the score");
+        int score= sc.nextInt();
+        char grade='f';
+        if (score>=90 && score<=100)
+        {
+            grade='A';
+            
+        } else if (score>=80 && score<=89) {
+            grade ='B';
+            
+            
+        } else if (score>=70 && score<=79) {
+            grade='C';
+            System.out.println("are you god");
+            grade='o';
+
+        }else {
+            System.out.println("your grade is ->"+grade);
+        }
+    }
+}
