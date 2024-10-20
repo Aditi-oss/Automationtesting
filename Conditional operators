@@ -1,0 +1,44 @@
+//Conditional Operator in java 
+
+package org123;
+
+public class lab003incrementdecrement {
+
+    //increment opretors
+    // perfix ++variable,++i
+    //postfix variable++,i++
+    //decrement oprators
+    //prefix //--varaiable
+    //postfix//Variable--
+//value is increment then is stored the result.//pre
+
+    //
+    public static void main(String[] args) {
+
+
+
+    //int a = 10;
+   // int b = ++a;
+    //    System.out.println(b);
+        //pre example
+        /*int a=10;
+        int b=a++;
+        System.out.println(b);
+        post example
+        */
+
+       /* //decrement oprators
+        int a=10;
+        int b=a--;
+        System.out.println(b);//post decrement
+
+        */
+       /* //pre decrement operators
+        int a=10;
+        int b=--a;
+        System.out.println(b);
+*/
+
+}
+
+}
