@@ -1,4 +1,10 @@
-
+/*
+[ ] Java switch statement executes one statement from multiple conditions.
+[ ] Java switch expressions must be of byte, short, int, long(with its Wrapper type), enums and String. Beginning with JDK7, it also works with enumerated types (Enums in java), the String class, and Wrapper classes.
+[ ] case/s values are not allowed.
+[ ] The value for a case must be constant or literal. Variables are not allowed.
+[ ] break can’t be used with elseif condition
+*/
 //Switch Statment In java 
 //Switch(Expression)
 //{
