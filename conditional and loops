@@ -1,1 +1,40 @@
+conditional and loops in java
+ Decision making programming conditions in java
+1.If statement 
+2.if-else statement
+
+it will always result true or false 
+ conditional
+public class lab0022ifelsestament {
+     public static void main(String[]args)
+     {
+         int age =20;
+         //allowed to vote
+         if (age>18)
+         {
+             System.out.println("allowed to vote");
+         }else {
+             System.out.println("not allowed to vote ");
+         }
+     }
+}
+
+
+another program is here
+
+public class lab0023ifcondition4 {
+    public static void main(String[]args)
+    {
+        int a=10;
+        if (a==4)
+        {
+            System.out.println("hahah");
+
+        }else {
+            System.out.println("bye");
+        }
+    }
+}
+
+
 
