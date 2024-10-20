@@ -55,3 +55,11 @@ public class lab001switchcasestat {
     }
 }
 
+//other way is also there now 
+//we can use the arrow on the test case statment
+//example
+//case 001,002,003:
+//case 001-> System.out.println("001");
+//case 002->System.out.println("002);
+
+
