@@ -67,5 +67,5 @@ public class lab001switchcasestat {
 //case 001,002,003:
 //case 001-> System.out.println("001");
 //case 002->System.out.println("002);
-
+//Default fall through due to missing break - JDK 13
 
