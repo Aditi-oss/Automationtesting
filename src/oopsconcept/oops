@@ -1,0 +1,19 @@
+//oops concept in java
+
+//oops in an concept which we can use for an create the software with the real world problem.
+//we can use with an object
+// class is an data member  and methods
+//class is nothing but a blueprint
+//suppose we have a building is attribute and behaviour .
+//building is name and color
+// behaviour such as leift and bathroom and flats
+//object is nothing but instance of the class.
+// inheritance
+//abstraction
+//polymorphism
+//encapsulation
+//heap area is object is created
+//studentAtBX s1 =new studentAtBx();
+//s1= object reference
+// new StudentATbx is an object creation
+//studentAtbX is an class loading
